@@ -1,20 +1,4 @@
+# MEAN MDI
 
-
-# mdi
-
-
-
-## Usage
-
-
-
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
+1) Capture data from medical device and save it to MongoDB<br />
+2) AngularJS bind to display captured data
